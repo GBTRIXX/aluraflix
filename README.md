@@ -26,3 +26,4 @@ main {
 img {
     max-width: 90%;
 }
+index.html
